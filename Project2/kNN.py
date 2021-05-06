@@ -1,3 +1,7 @@
+"""
+Code learned from Machine Learning in Action
+"""
+
 from numpy import *
 import operator
 
